@@ -1,0 +1,9 @@
+HANDCRAFTED BEVERAGES
+        ESPRESSO                        S        M        L
+[CL]    Caffe Latte                    110      125      140 
+[CP]    Cappucino                      110      125      140
+[CM]    Caffe Mocha                    125      140      155 
+[CAMAC] Caramel Macchiato              135      150      165
+[WCM]   White Chococolate Mocha        135      150      160
+[CA]    Caffe Americano                100      115      130
+ 
